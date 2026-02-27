@@ -1,2 +1,4 @@
 # RisingGreenTree
-A Python project using the Turtle module to draw mesmerizing spiral patterns. Creates dynamic, rainbow-colored shapes using HSV color transitions and loops. Demonstrates creative use of Python graphics and geometric design.
+A Python program that draws a colorful fractal tree using recursion and Turtle graphics.
+Generates vibrant branches with dynamic HSV-based color transitions for a rainbow effect.
+Demonstrates recursion, geometry, and creative use of Python’s graphics capabilities.
